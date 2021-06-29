@@ -11,9 +11,24 @@ Resolution of ANADI unit course projects. (2020/2021)
 * [Artigo Científico](2nd_project/artigo_cientifico.pdf)
 * [Script](2nd_project/script.R)
 
-Grupo de trabalho:
+
+---------------------------------
+
+
+### Grupo de trabalho:
 | Nome               |
 | ------------------ |
 | Tiago Ribeiro      |
 | Diogo Ribeiro      |
 | André Novo         |
+
+---------------------------------
+
+### Classificações (0-20)
+
+|              | Nota:|
+|:-----------  |:-----|
+|1º Projeto    |13.98 |
+|2º Projeto    |16.60 |
+
+---------------------------------
