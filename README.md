@@ -24,7 +24,7 @@ Resolution of ANADI unit course projects. (2020/2021)
 
 ---------------------------------
 
-### Classificações (0-20)
+### Classificações
 
 |                  | Nota:|
 |:-----------      |:-----|
