@@ -4,7 +4,7 @@ Resolution of ANADI unit course projects. (2020/2021)
 ### 1º Projeto
 * [Enunciado](1st_project/Enunciado_TP1.pdf)
 * [Artigo Científico](1st_project/artigo_cientifico.pdf)
-* [Script](1st_project/script.R)
+* [Script](1st_project/Script.R)
 
 ### 2º Projeto
 * [Enunciado](2nd_project/Enunciado_TP2.pdf)
